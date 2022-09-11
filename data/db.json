@@ -1,0 +1,25 @@
+{
+  "escolas": [
+    {
+      "id": "abc",
+      "nome": "Escola 123",
+      "endereco": "Rua Adamastor Antônio da Silva",
+      "latitude": -20.659689,
+      "longitude": -40.498853
+    },
+    {
+      "nome": "Escola 2",
+      "endereco": "Rua Brasília",
+      "latitude": "-20.657622",
+      "longitude": "-40.498028",
+      "id": "HBmvlFh"
+    },
+    {
+      "nome": "Rosana Carolino Rezende",
+      "endereco": "Avenida Governador Dias Lopes",
+      "latitude": -19.3810779,
+      "longitude": -40.0634787,
+      "id": "V5ffByN"
+    }
+  ]
+}
